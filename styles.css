@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffebcdbb;
+}
+
+div {
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 25px;
+  margin: 100px 400px;
+  width: 700px;
+  position: absolute;
+}
+img {
+  width: 100%;
+  border-radius: 50px;
+  padding: 30px;
+}
+
+.myheader {
+  padding-left: 30px;
+}
+.par {
+  padding: 20px 30px;
+  color: rgb(17, 82, 60);
+  font-size: small;
+  font-style: initial;
+}
+
+.secdiv {
+  border: 1px solid rgba(255, 192, 203, 0.282);
+  background-color: rgba(255, 192, 203, 0.122);
+  border-radius: 10px;
+  width: 600px;
+  padding-left: 50px;
+  margin: 0;
+  position: relative;
+  left: 30px;
+}
+h2 {
+  color: #8b4513;
+  padding: 20px 30px;
+  font-style: initial;
+}
+ul,
+ol {
+  color: #49490bf7;
+  font-size: smaller;
+}
+
+.mycl {
+  padding-left: 50px;
+  border-bottom: 0.1px solid rgba(0, 0, 0, 0.296);
+}
+
+h3 {
+  color: rgb(105, 24, 62);
+  position: relative;
+  right: 20px;
+}
+
+p {
+  color: #445426;
+  font-size: smaller;
+  padding-left: 30px;
+}
+
+pre {
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.251);
+  color: #4c6224;
+  padding: 20px 40px;
+}
+
+.bold {
+  color: #8b4513;
+  font-style: initial;
+}
